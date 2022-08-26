@@ -1,4 +1,4 @@
-Snowflake JDBC Driver
+Snowflake JDBC Driver (test branch for u110)
 *********************
 
 .. image:: https://github.com/snowflakedb/snowflake-jdbc/workflows/Build%20and%20Test/badge.svg?branch=master
